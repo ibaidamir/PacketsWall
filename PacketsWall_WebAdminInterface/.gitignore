@@ -1,0 +1,4 @@
+# Firebase sensitive files
+.firebase/
+firebase.json
+.firebaserc
