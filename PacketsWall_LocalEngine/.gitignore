@@ -10,13 +10,6 @@ firebase-debug.*.log*
 # Firebase cache
 .firebase/
 
-# Firebase config
-
-# Uncomment this if you'd like others to create their own Firebase project.
-# For a team working on the same Firebase project(s), it is recommended to leave
-# it commented so all members can deploy to the same project(s) in .firebaserc.
-# .firebaserc
-
 # Runtime data
 pids
 *.pid
@@ -27,49 +20,39 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
-
-# nyc test coverage
+coverage/
 .nyc_output
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
+# Build output and dependencies
+build/
+dist/
 node_modules/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
 *.tgz
+*.exe
+*.pkg
+*.msi
 
-# Yarn Integrity file
-.yarn-integrity
+# Compiled binary addons
+*.node
 
-# dotenv environment variables file
+# Sensitive or local environment files
 .env
+*.env
+*.env.local
+*.env.production
 
-# dataconnect generated files
-.dataconnect
+# System files
+.DS_Store
+Thumbs.db
 
-# === DDoS Local Engine sensitive files ===
-PacketsWall_LocalEngine/packetswall-firebase-key.json
-PacketsWall_LocalEngine/pending_logs.json
-PacketsWall_LocalEngine/node-v22.16.0-x64.msi
-PacketsWall_LocalEngine/dist/
+# Firebase config
+# Uncomment if you want each dev to use their own Firebase project
+# .firebaserc
+
+# === Project-specific ignored files ===
+# Firebase private key and logs
+packetswall-firebase-key.json
+pending_logs.json
+
+# Node installer copied locally
+node-v22.16.0-x64.msi
