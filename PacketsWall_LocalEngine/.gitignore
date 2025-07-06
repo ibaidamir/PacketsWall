@@ -67,3 +67,9 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# === DDoS Local Engine sensitive files ===
+PacketsWall_LocalEngine/packetswall-firebase-key.json
+PacketsWall_LocalEngine/pending_logs.json
+PacketsWall_LocalEngine/node-v22.16.0-x64.msi
+PacketsWall_LocalEngine/dist/
