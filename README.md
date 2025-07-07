@@ -56,14 +56,14 @@ PacketsWall is a sophisticated DDoS Attack detection and prevention system desig
 PacketsWall employs a hybrid architecture combining local processing with cloud-based management:
 
 ```
-┌──────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Local Engine   │◄──►│  Firebase Cloud  │◄──►│  Web Interface  │
-│                  │    │                  │    │                 │
-│ • Packet Capture │    │ • Data Storage   │    │ • Monitoring    │
-│ • Threat Analysis│    │ • Synchronization│    │ • Analytics     │
-│ • Auto-blocking  │    │ • Authentication │    │ • Reporting     │
-│ • Alert System   │    │ • Backup & Scale │    │ • About System  │
-└──────────────────┘    └──────────────────┘    └─────────────────┘
+┌───────────────────┐    ┌──────────────────┐    ┌─────────────────┐
+│    Local Engine   │◄──►│  Firebase Cloud  │◄──►│  Web Interface  │
+│                   │    │                  │    │                 │
+│ • Packet Capture  │    │ • Data Storage   │    │ • Monitoring    │
+│ • Detection System│    │ • Synchronization│    │ • Analytics     │
+│ • Auto-blocking   │    │ • Authentication │    │ • Reporting     │
+│ • Alert System    │    │ • Send Alerts    │    │ • About System  │
+└───────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
 ## 🛠️ Technology Stack
