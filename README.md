@@ -3,7 +3,6 @@
 
 <div align="center">
 
-![PacketsWall Logo](https://img.shields.io/badge/PacketsWall-DDoS%20Protection-blue?style=for-the-badge&logo=shield&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-18.2+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
@@ -248,6 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📖 **Documentation**: [docs.packetswall.org](https://docs.packetswall.org)
+- 💬 Discussions: [GitHub Discussions](https://github.com/ibaidamir/PacketsWall/discussiions)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/ibaidamir/PacketsWall/issues)
 - 📧 **Email**: packetswall@gmail.com
 
