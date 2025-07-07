@@ -221,9 +221,9 @@ npm run dev
 
 ### Upcoming Features
 
-- **v2.0**: Machine Learning integration, IPv6 support, Mobile app
-- **v2.1**: Advanced protocols (DNS, SIP), Enhanced analytics
-- **v3.0**: Cloud-native deployment, Threat intelligence integration
+-  Machine Learning integration, IPv6 support, Mobile app
+-  Advanced protocols (DNS, SIP), Enhanced analytics
+-  Cloud-native deployment, Threat intelligence integration
 
 ## 📄 License
 
