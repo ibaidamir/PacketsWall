@@ -252,7 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📧 **Email**: ibaidamir@gmail.com
 
 ---
-
 <div align="center"
 **⭐ Star this repository if PacketsWall helped protect your network!**
 
