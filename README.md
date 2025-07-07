@@ -18,7 +18,7 @@
 
 ## 🌟 Overview
 
-PacketsWall is a sophisticated DDoS detection and prevention system designed to protect networks from modern cyber threats. Built with cutting-edge technologies, it provides real-time monitoring, intelligent threat detection, and automated response capabilities.
+PacketsWall is a sophisticated DDoS Attack detection and prevention system designed to protect networks from modern cyber threats. Built with cutting-edge technologies, it provides real-time monitoring, intelligent threat detection, and automated response capabilities.
 
 ### 🎯 Key Highlights
 
@@ -234,7 +234,7 @@ This project is licensed under the MIT License
 **Arab American University - Faculty of Information Technology**
 
 - **Amir Ibaid** - Lead Developer, System Architecture, Python & Cloud Integration
-- **Samer Ataya** - DDoS Mitigation & Security Implementation
+- **Samer Ataya** - DDoS Attack Mitigation & Security Implementation
 - **Nizam Dwikat** - Frontend Development & UI/UX Design
 
 **Supervisor:** Dr. Mohammed Hamarsheh
@@ -246,7 +246,7 @@ This project is licensed under the MIT License
 
 ## 📞 Support
 
-- 📖 **Documentation**: [PacketsWall.doc](https://github.com/ibaidamir/PacketsWall/blob/main/PacketsWall.docx?raw=true)
+- 📖 **Documentation**: [PacketsWall.docx](https://github.com/ibaidamir/PacketsWall/blob/main/PacketsWall.docx?raw=true)
 - 💬 Discussions: [GitHub Discussions](https://github.com/search?q=repo%3Aibaidamir%2FPacketsWall++Discussions&type=discussions)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/ibaidamir/PacketsWall/issues)
 - 📧 **Email**: ibaidamir@gmail.com
