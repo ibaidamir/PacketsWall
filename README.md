@@ -247,9 +247,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📖 **Documentation**: [docs.packetswall.org](https://docs.packetswall.org)
-- 💬 Discussions: [GitHub Discussions](https://github.com/search?q=repo%3Aibaidamir%2FPacketsWall++Discussions&type=discussions))
+- 💬 Discussions: [GitHub Discussions](https://github.com/search?q=repo%3Aibaidamir%2FPacketsWall++Discussions&type=discussions)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/ibaidamir/PacketsWall/issues)
-- 📧 **Email**: packetswall@gmail.com
+- 📧 **Email**: amiribaid@gmail.com
 
 ---
 
