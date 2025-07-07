@@ -9,7 +9,8 @@
 
 **A cutting-edge, real-time DDoS attack detection and prevention system with adaptive thresholding and cloud integration**
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🎯 Features](#-features) • [🤝 Contributing](#-contributing)
+[🚀 Quick Start](#-quick-start) • [📖 Documentation](https://github.com/ibaidamir/PacketsWall/blob/main/PacketsWall.docx?raw=true) • 
+ • [🎯 Features](#-features) • [🤝 Contributing](#-contributing)
 
 </div>
 
