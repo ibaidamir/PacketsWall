@@ -237,7 +237,7 @@ This project is licensed under the MIT License
 - **Samer Ataya** - DDoS Attack Mitigation & Security Implementation
 - **Nizam Dwikat** - Frontend Development & UI/UX Design
 
-**Supervisor:** Dr. Mohammed Hamarsheh
+**Supervisor:** [Dr. Mohammed Hamarsheh](https://github.com/hamarsheh1)
 
 ### Special Thanks
 - Scapy Community for packet manipulation capabilities
